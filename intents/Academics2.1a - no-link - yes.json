@@ -1,0 +1,39 @@
+{
+  "id": "07ae3c3b-abe4-4f3b-a626-69eb709e6cfa",
+  "parentId": "e3308298-5fc1-4de1-8971-76a2b2c37840",
+  "rootParentId": "0ea4a242-5eac-4d46-98d7-d8a41aa6fb8b",
+  "name": "Academics2.1a - no-link - yes",
+  "auto": true,
+  "contexts": [
+    "Academics21a-no-link-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.SuicidalThoughts-custom.Startingacademicsrelatedproblem-custom.Academics21-custom.Academics21a-no.Academics21a-no-custom.Academics21a-no-link-yes",
+      "affectedContexts": [
+        {
+          "name": "Academics21a-no-link-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531867231,
+  "fallbackIntent": false,
+  "events": []
+}

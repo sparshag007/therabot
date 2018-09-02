@@ -1,0 +1,41 @@
+{
+  "id": "b61783a3-e17b-45f0-bf14-f84cf490bedc",
+  "parentId": "07ae3c3b-abe4-4f3b-a626-69eb709e6cfa",
+  "rootParentId": "0ea4a242-5eac-4d46-98d7-d8a41aa6fb8b",
+  "name": "Academics2.1a - no-link - yes - thanks",
+  "auto": true,
+  "contexts": [
+    "Academics21a-no-link-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.SuicidalThoughts-custom.Startingacademicsrelatedproblem-custom.Academics21-custom.Academics21a-no.Academics21a-no-custom.Academics21a-no-link-yes.Academics21a-no-link-yes-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "that\u0027s what i am here for",
+            "anytime",
+            "no problem",
+            "dont get any bright ideas now :P",
+            "dont get any suicidal thoughts",
+            "life is a precious gift appreciate it",
+            "good dont give up on life this easily"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535832141,
+  "fallbackIntent": false,
+  "events": []
+}

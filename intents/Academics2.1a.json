@@ -1,0 +1,72 @@
+{
+  "id": "ea914a65-bbc7-4be5-975b-f5e45459b859",
+  "parentId": "1917894b-51a8-4503-a89d-1c0f4bd2f271",
+  "rootParentId": "0ea4a242-5eac-4d46-98d7-d8a41aa6fb8b",
+  "name": "Academics2.1a",
+  "auto": true,
+  "contexts": [
+    "Academics21-followup",
+    "stupid",
+    "forget",
+    "remember"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.SuicidalThoughts-custom.Startingacademicsrelatedproblem-custom.Academics21-custom",
+      "affectedContexts": [
+        {
+          "name": "stupid",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "forget",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "remember",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "Academics21a-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2ccd4ead-2f22-4720-a6d9-b5dbbe1213c2",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "well you have to try",
+            "try and try until you succeed",
+            "dont give up read it again and again",
+            "i recommend that you read this article : https://starchild.gsfc.nasa.gov/docs/StarChild/whos_who_level2/newton.html (one of the greatest minds in the history)",
+            "Einstein once said : \"If you can\u0027t explain it simply, you don\u0027t understand it well enough.\",maybe there is a problem in your understanding?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535831201,
+  "fallbackIntent": false,
+  "events": []
+}

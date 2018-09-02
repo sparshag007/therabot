@@ -1,0 +1,53 @@
+[
+  {
+    "value": "academics",
+    "synonyms": [
+      "academics",
+      "study",
+      "learning",
+      "education",
+      "schooling",
+      "work",
+      "academic work",
+      "bookwork",
+      "scholarship",
+      "tuition",
+      "research",
+      "ilswotting",
+      "cramming"
+    ]
+  },
+  {
+    "value": "play",
+    "synonyms": [
+      "play",
+      "liesure",
+      "spare time",
+      "spare moments",
+      "time to spare",
+      "idle hours",
+      "time off",
+      "freedom",
+      "holiday",
+      "breathing space",
+      "breathing spell",
+      "respite",
+      "relief",
+      "ease",
+      "peace",
+      "quiet",
+      "recreation",
+      "relaxation",
+      "inactivity",
+      "amusement",
+      "entertainment",
+      "pleasure",
+      "diversion",
+      "distraction",
+      "fun",
+      "games",
+      "fun and games",
+      "vacation"
+    ]
+  }
+]

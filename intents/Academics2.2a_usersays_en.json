@@ -1,0 +1,60 @@
+[
+  {
+    "id": "b0fbe74c-1ca1-47fa-8f63-5d61ecd43c27",
+    "data": [
+      {
+        "text": "time table wont help i have tried it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535850468
+  },
+  {
+    "id": "41269f92-f8f3-497b-b6bb-f4a997f104d5",
+    "data": [
+      {
+        "text": "but between balancing everything i feel tired all the time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535850468
+  },
+  {
+    "id": "87294b97-d319-4428-876b-b79d93979be7",
+    "data": [
+      {
+        "text": "i just wanna focus on my passion right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535850468
+  },
+  {
+    "id": "1da5d36c-c8d0-4f30-9b22-9ca841faed01",
+    "data": [
+      {
+        "text": "i cant do it all , get ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "alias": "emotions",
+        "meta": "@emotions",
+        "userDefined": false
+      },
+      {
+        "text": " grades and excel in other activities/sports/co-curricular",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535850468
+  }
+]

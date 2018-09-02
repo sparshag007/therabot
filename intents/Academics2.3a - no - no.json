@@ -1,0 +1,36 @@
+{
+  "id": "9d39010e-8aac-4598-a799-1c462d588b86",
+  "parentId": "f05a902e-bab2-4b93-ae78-bd7b82df09e0",
+  "rootParentId": "0ea4a242-5eac-4d46-98d7-d8a41aa6fb8b",
+  "name": "Academics2.3a - no - no",
+  "auto": true,
+  "contexts": [
+    "Academics23a-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.SuicidalThoughts-custom.Startingacademicsrelatedproblem-custom.Academics23-custom.Academics23a-no.Academics23a-no-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "umm... you can try approaching your teachers and parents regarding the bullying issue",
+            "you have to do something about it , maybe registring a complaint against the students who bully you might help"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535848537,
+  "fallbackIntent": false,
+  "events": []
+}

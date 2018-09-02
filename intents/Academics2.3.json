@@ -1,0 +1,77 @@
+{
+  "id": "ccd2b803-3bd7-4fab-a988-7598e8393a10",
+  "parentId": "013ac4dd-c828-4395-b852-8579ae98c034",
+  "rootParentId": "0ea4a242-5eac-4d46-98d7-d8a41aa6fb8b",
+  "name": "Academics2.3",
+  "auto": true,
+  "contexts": [
+    "Startingacademicsrelatedproblem-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.SuicidalThoughts-custom.Startingacademicsrelatedproblem-custom",
+      "affectedContexts": [
+        {
+          "name": "Academics23-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "doubts",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "questions",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "self",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "conscious",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "afraid",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "34a2ba2e-968b-4443-ae71-476b434c3ce7",
+          "dataType": "@emotions",
+          "name": "emotions",
+          "value": "$emotions",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "don\u0027t think about what others think about you",
+            "keep trying and dont care about others",
+            "just focus on your goal dont think about the people",
+            "ignore the comments of other people"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535849337,
+  "fallbackIntent": false,
+  "events": []
+}

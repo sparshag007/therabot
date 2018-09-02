@@ -1,0 +1,60 @@
+{
+  "id": "f2682d98-fbb2-4fc8-ac2e-f8a2fec29fc5",
+  "parentId": "013ac4dd-c828-4395-b852-8579ae98c034",
+  "rootParentId": "0ea4a242-5eac-4d46-98d7-d8a41aa6fb8b",
+  "name": "Academics2.2",
+  "auto": true,
+  "contexts": [
+    "Startingacademicsrelatedproblem-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.SuicidalThoughts-custom.Startingacademicsrelatedproblem-custom",
+      "affectedContexts": [
+        {
+          "name": "Academics22-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d472a2ca-58a2-49a2-9cb5-bca7c5391011",
+          "dataType": "@fields",
+          "name": "fields",
+          "value": "$fields",
+          "isList": false
+        },
+        {
+          "id": "c74ad458-da07-4a97-b5d6-b0ea7f959918",
+          "dataType": "@fields",
+          "name": "fields1",
+          "value": "$fields1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "oh, i can understand what you\u0027re going through but the biggest challenge of student is time management and you have to be very efficient in your time management",
+            "i understand but have you tried alternating between your activities and academics?",
+            "can i suggest you a way? try alternating between your activities and academics",
+            "you dont have to do it all at once , calm down, take some time to relax and make a good time table",
+            "no one can do it all, make a tough choice , choose what you like to do"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535850239,
+  "fallbackIntent": false,
+  "events": []
+}

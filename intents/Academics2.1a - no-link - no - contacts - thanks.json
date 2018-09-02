@@ -1,0 +1,40 @@
+{
+  "id": "85de7766-2a7e-4628-a4de-7b59174b1f3e",
+  "parentId": "28e9d630-f4d4-4d05-aeb7-a2110c7a9bba",
+  "rootParentId": "0ea4a242-5eac-4d46-98d7-d8a41aa6fb8b",
+  "name": "Academics2.1a - no-link - no - contacts - thanks",
+  "auto": true,
+  "contexts": [
+    "Academics21a-no-link-no-contacts-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Welcome.Welcome-custom.SuicidalThoughts-custom.academicsproblem-custom.Academics21-custom.Academics21a-no.Academics21a-no-custom.Academics21a-no-link-no.Academics21a-no-link-no-custom.Academics21a-no-link-no-contacts-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "thats what i am here for",
+            "anytime",
+            "no problem",
+            "your welcome",
+            "thank life , dont waste it",
+            "life is a precious gift dont waste it"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535833441,
+  "fallbackIntent": false,
+  "events": []
+}

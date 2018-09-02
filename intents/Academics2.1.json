@@ -1,0 +1,66 @@
+{
+  "id": "1917894b-51a8-4503-a89d-1c0f4bd2f271",
+  "parentId": "013ac4dd-c828-4395-b852-8579ae98c034",
+  "rootParentId": "0ea4a242-5eac-4d46-98d7-d8a41aa6fb8b",
+  "name": "Academics2.1",
+  "auto": true,
+  "contexts": [
+    "Startingacademicsrelatedproblem-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.SuicidalThoughts-custom.Startingacademicsrelatedproblem-custom",
+      "affectedContexts": [
+        {
+          "name": "teachers",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "maths",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "mathematics",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "science",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "Academics21-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "have you tried taking extra tutions?",
+            "have you tried practicing the problems by yourself?",
+            "try practicing some problems",
+            "try taking some extra help outside the school",
+            "take help of your mates",
+            "a friend can help with doubts sometimes....have you tried that?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535850822,
+  "fallbackIntent": false,
+  "events": []
+}

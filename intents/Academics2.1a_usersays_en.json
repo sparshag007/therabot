@@ -1,0 +1,116 @@
+[
+  {
+    "id": "5fe91979-3d7c-4417-b28c-5c4fbbe25afb",
+    "data": [
+      {
+        "text": "i feel dumb sometimes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535831201
+  },
+  {
+    "id": "33dd96db-6585-44b0-84e6-9d2f831192e8",
+    "data": [
+      {
+        "text": "i feel that i am a bit dumb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535831201
+  },
+  {
+    "id": "f5cc254e-c893-41f4-9919-50c688b4dd1e",
+    "data": [
+      {
+        "text": "i take a lot of time to understand the concepts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535819965
+  },
+  {
+    "id": "1e32e088-27b0-4ce0-94c3-ff1c8d77c151",
+    "data": [
+      {
+        "text": "i feel that others grasp the concepts in less time than i do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535819965
+  },
+  {
+    "id": "f321e29b-e6d1-4785-9e59-cdc05258918c",
+    "data": [
+      {
+        "text": "i feel that i dont have what it takes to understand my academics",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535819965
+  },
+  {
+    "id": "d95d60af-d4c9-40ab-8e55-fa674e39db7e",
+    "data": [
+      {
+        "text": "problem in getting the concepts in my head even after understanding it again and again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535819965
+  },
+  {
+    "id": "b3e14e05-16dd-42a5-83ef-1c1a87ec8f28",
+    "data": [
+      {
+        "text": "cant seem to recall ",
+        "userDefined": false
+      },
+      {
+        "text": "next day",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535819965
+  },
+  {
+    "id": "5867a956-408b-4393-bf42-df31c8967c57",
+    "data": [
+      {
+        "text": "even after understanding it in the class i forget it later on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535819965
+  },
+  {
+    "id": "8b12d5e5-08a8-4adb-8bb0-9650f12b1333",
+    "data": [
+      {
+        "text": "i feel like stupid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535819965
+  }
+]

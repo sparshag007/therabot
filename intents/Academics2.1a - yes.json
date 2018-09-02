@@ -1,0 +1,48 @@
+{
+  "id": "2ab6e4f8-5aa6-46d3-b577-f62e22a3f1a0",
+  "parentId": "ea914a65-bbc7-4be5-975b-f5e45459b859",
+  "rootParentId": "0ea4a242-5eac-4d46-98d7-d8a41aa6fb8b",
+  "name": "Academics2.1a - yes",
+  "auto": true,
+  "contexts": [
+    "remember",
+    "stupid",
+    "forget",
+    "Academics21a-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.SuicidalThoughts-custom.Startingacademicsrelatedproblem-custom.Academics21-custom.Academics21a-yes",
+      "affectedContexts": [
+        {
+          "name": "Academics21a-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "i hope you give it a try",
+            "please stay away from these toxic thoughts",
+            "life is a beautiful gift please dont waste it like this",
+            "you have a very bright future , dont give up",
+            "dont give up on life that easily"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535828923,
+  "fallbackIntent": false,
+  "events": []
+}

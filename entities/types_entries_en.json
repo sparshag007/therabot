@@ -1,0 +1,98 @@
+[
+  {
+    "value": "suicide",
+    "synonyms": [
+      "suicide",
+      "die",
+      "pass away",
+      "pass on",
+      "lose one\u0027s life",
+      "depart this life",
+      "expire",
+      "breathe one\u0027s last",
+      "draw one\u0027s last breath",
+      "meet one\u0027s end",
+      "meet one\u0027s death",
+      "lay down one\u0027s life",
+      "be no more",
+      "kill"
+    ]
+  },
+  {
+    "value": "addiction",
+    "synonyms": [
+      "addiction",
+      "dependency",
+      "dependence",
+      "craving",
+      "habit",
+      "weakness",
+      "compulsion",
+      "fixation",
+      "enslavement"
+    ]
+  },
+  {
+    "value": "depression",
+    "synonyms": [
+      "depression",
+      ":\tmelancholy",
+      "misery",
+      "sadness",
+      "unhappiness",
+      "sorrow",
+      "woe",
+      "gloom",
+      "gloominess",
+      "downheartedness",
+      "despondency",
+      "discouragement",
+      "despair",
+      "melancholy",
+      "misery",
+      "sadness",
+      "unhappiness",
+      "sorrow",
+      "woe",
+      "gloom",
+      " gloominess",
+      "dejection",
+      "downheartedness",
+      "despondency",
+      "dispiritedness",
+      "low spirits",
+      "heavy-heartedness",
+      " moroseness",
+      "discouragement",
+      "despair",
+      "desolation",
+      "dolefulness",
+      "moodiness",
+      "pessimism",
+      "hopelessness"
+    ]
+  },
+  {
+    "value": "pressure",
+    "synonyms": [
+      "pressure"
+    ]
+  },
+  {
+    "value": "strain",
+    "synonyms": [
+      "pressure",
+      "tension",
+      "nervous tension",
+      "worry",
+      "anxiety",
+      "nervousness\"; \"trouble",
+      "difficulty",
+      "distress",
+      "trauma",
+      "suffering",
+      "pain",
+      "grief\"; \"hassle"
+    ]
+  }
+]
